@@ -1,0 +1,22 @@
+{
+  "name": "devops-tutorial-pinelines",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.ts",
+    "run" : "node index.ts"
+
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jokohamaru/devops-tutorial-pinelines.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jokohamaru/devops-tutorial-pinelines/issues"
+  },
+  "homepage": "https://github.com/Jokohamaru/devops-tutorial-pinelines#readme"
+}
